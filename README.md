@@ -8,21 +8,21 @@ ______________________________________________
 www.pritunl.com
 
 _______________________________________________
-Script suport
+Script Install
 - Pritunl
 - MongoDB
 - Vnstat
 - Web Server
 - Squid Proxy Port 8080,8000,80"
 
-**TimeZone**   :  ดิ้นนนนน
+**TimeZone**   :  ไทยโว้ยยยยย
 
 _________________________________________________
 **วิธีติดตั้ง**
 
 Ubuntu 14.xx+
 ```
-wget https://raw.githubusercontent.com/elangoverdosis/deeniedoank2/ubuntu14.sh
+wget https://raw.githubusercontent.com/d1nfuck3r/oneclick-pritunl/master/install.sh
 chmod +x install.sh
 ./install.sh
 ```
