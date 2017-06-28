@@ -82,5 +82,3 @@ echo "Pritunl    :  https://$MYIP"
 echo "Login IP on Browser"
 echo "Copy code Pritunl"
 pritunl setup-key
-Contact GitHub API Training Shop Blog About
-© 2017 GitHub, Inc. Terms Privacy Security Status Help
