@@ -26,6 +26,17 @@ wget https://raw.githubusercontent.com/d1nfuck3r/oneclick-pritunl/master/install
 chmod +x install.sh
 ./install.sh
 ```
+
+__________________________________________________
+**วิธีติดตั้ง**
+
+Debian8
+
+wget https://raw.githubusercontent.com/d1nfuck3r/oneclick-pritunl/master/debian8.sh
+chmod +x debian8.sh
+./debian8.sh
+
+
 __________________________________________________
 **NOTE**
 
